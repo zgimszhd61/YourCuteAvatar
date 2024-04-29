@@ -25,7 +25,6 @@ CartoonifyMe is an open-source project that aims to transform users' personal ph
 - **Technical Learning**: For developers and students aspiring to learn image processing and machine learning, CartoonifyMe provides a practical application case to help them improve their technical skills in practice.
 
 ## Examples
-![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/96c35d3b-6611-4f75-82d2-17430cbc478e)
 ![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/3f0cf606-eee0-4355-974f-ebc3a4514024)
 ![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/988daf0d-fba3-40c8-aefd-1b0231d011f4)
 ![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/9918501f-3e83-4803-9d9b-9996f6cc9a4b)
