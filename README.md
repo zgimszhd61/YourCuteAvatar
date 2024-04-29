@@ -25,7 +25,6 @@ CartoonifyMe 是一个开源项目，旨在通过简单的交互方式，将用�
 - **技术学习**：对于有志于学习图像处理和机器学习的开发者和学生，CartoonifyMe 提供了一个实际应用的案例，帮助他们在实践中提升技术能力。
 
 ## 例子
-![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/96c35d3b-6611-4f75-82d2-17430cbc478e)
 ![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/3f0cf606-eee0-4355-974f-ebc3a4514024)
 ![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/988daf0d-fba3-40c8-aefd-1b0231d011f4)
 ![image](https://github.com/zgimszhd61/YourCuteAvatar/assets/114722053/9918501f-3e83-4803-9d9b-9996f6cc9a4b)
